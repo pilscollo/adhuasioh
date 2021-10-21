@@ -4,7 +4,7 @@
 #include "string.h"
 ///Sistemas de usuarios
 
-/**
+/**hduhfdso
 Cosas que necesitamos que el sistema haga:
 
 1. registrar al usuario:
