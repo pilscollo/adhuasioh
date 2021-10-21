@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634759247 source:c:\users\pilar\desktop\trabajofinal\listasd.c
+	"listasD.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634756498 c:\users\pilar\desktop\trabajofinal\listasd.h
+
+1634758769 source:c:\users\pilar\desktop\trabajofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasD.h"
+	"string.h"
+
